@@ -1,0 +1,22 @@
+body {
+    width: 1024px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+}
+
+hr {
+    border: none;
+    color: #eee;
+    background-color: #eee;
+    height: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+.photo,
+.author {
+    display: inline-block;
+}
